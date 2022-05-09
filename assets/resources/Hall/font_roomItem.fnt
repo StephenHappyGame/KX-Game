@@ -1,0 +1,22 @@
+info face="font_roomItem" size=50 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=2,2
+common lineHeight=100 base=26 scaleW=330 scaleH=365 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="font_roomItem.png"
+chars count=16
+char id=48 x=179 y=196 width=74 height=89 xoffset=0 yoffset=11 xadvance=44 page=0 chnl=0 letter="0"
+char id=49 x=256 y=0 width=61 height=88 xoffset=0 yoffset=12 xadvance=31 page=0 chnl=0 letter="1"
+char id=50 x=255 y=91 width=73 height=90 xoffset=0 yoffset=11 xadvance=43 page=0 chnl=0 letter="2"
+char id=51 x=255 y=183 width=72 height=90 xoffset=0 yoffset=11 xadvance=42 page=0 chnl=0 letter="3"
+char id=52 x=103 y=106 width=75 height=88 xoffset=0 yoffset=12 xadvance=45 page=0 chnl=0 letter="4"
+char id=53 x=180 y=91 width=73 height=88 xoffset=0 yoffset=12 xadvance=43 page=0 chnl=0 letter="5"
+char id=54 x=180 y=0 width=74 height=89 xoffset=0 yoffset=11 xadvance=44 page=0 chnl=0 letter="6"
+char id=55 x=255 y=275 width=70 height=88 xoffset=0 yoffset=12 xadvance=40 page=0 chnl=0 letter="7"
+char id=56 x=104 y=0 width=74 height=89 xoffset=0 yoffset=11 xadvance=44 page=0 chnl=0 letter="8"
+char id=57 x=103 y=196 width=74 height=90 xoffset=0 yoffset=11 xadvance=44 page=0 chnl=0 letter="9"
+char id=46 x=0 y=309 width=48 height=47 xoffset=0 yoffset=53 xadvance=18 page=0 chnl=0 letter="."
+char id=20803 x=0 y=106 width=101 height=98 xoffset=0 yoffset=8 xadvance=71 page=0 chnl=0 letter="元"
+char id=24213 x=0 y=0 width=102 height=104 xoffset=0 yoffset=3 xadvance=72 page=0 chnl=0 letter="底"
+char id=20998 x=0 y=206 width=101 height=101 xoffset=0 yoffset=5 xadvance=71 page=0 chnl=0 letter="分"
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=40 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=0 page=0 chnl=0 letter="	"
+
+kernings count=0

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "9f441cd1-ca46-4da0-86a2-fc80a17b393a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "zoushi_redPoint": {
+      "ver": "1.0.3",
+      "uuid": "f88f7c4d-ec5b-4343-b2a2-8fde96e6596e",
+      "rawTextureUuid": "9f441cd1-ca46-4da0-86a2-fc80a17b393a",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 21,
+      "height": 22,
+      "rawWidth": 21,
+      "rawHeight": 22,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

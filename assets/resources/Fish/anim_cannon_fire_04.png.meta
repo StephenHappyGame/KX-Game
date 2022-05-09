@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "6f73a397-deb6-47df-a6d7-9289a8f0b92d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "anim_cannon_fire_04": {
+      "ver": "1.0.3",
+      "uuid": "813b516c-ff50-4777-9f0e-f503aa03f3ec",
+      "rawTextureUuid": "6f73a397-deb6-47df-a6d7-9289a8f0b92d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 22,
+      "trimX": 52,
+      "trimY": 0,
+      "width": 106,
+      "height": 183,
+      "rawWidth": 210,
+      "rawHeight": 227,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

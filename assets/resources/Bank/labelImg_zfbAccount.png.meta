@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "9badb494-b512-4516-ba9f-6353bf980e49",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "labelImg_zfbAccount": {
+      "ver": "1.0.3",
+      "uuid": "4bf2c314-72f6-4164-b8fd-ddc3d498603d",
+      "rawTextureUuid": "9badb494-b512-4516-ba9f-6353bf980e49",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 162,
+      "height": 29,
+      "rawWidth": 162,
+      "rawHeight": 29,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

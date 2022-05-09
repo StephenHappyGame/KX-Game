@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "9dbc7776-d442-4d23-b1c8-ebf76f57106e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "labelImg_phone1": {
+      "ver": "1.0.3",
+      "uuid": "70f1f02c-a712-4744-b687-72eb4079fe20",
+      "rawTextureUuid": "9dbc7776-d442-4d23-b1c8-ebf76f57106e",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 109,
+      "height": 45,
+      "rawWidth": 109,
+      "rawHeight": 45,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "7545f95b-1ca3-422b-b3e5-7904af5e6b84",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "btn_getPhoneCode": {
+      "ver": "1.0.3",
+      "uuid": "53cc6d2e-0053-4038-ae24-994b388572fc",
+      "rawTextureUuid": "7545f95b-1ca3-422b-b3e5-7904af5e6b84",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 161,
+      "height": 54,
+      "rawWidth": 161,
+      "rawHeight": 54,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

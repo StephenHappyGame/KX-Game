@@ -1,0 +1,56 @@
+{
+  "ver": "1.2.4",
+  "uuid": "23720ccf-19a6-4a21-b553-e30607964cd2",
+  "rawTextureUuid": "f06922d1-db01-4307-b9a2-2d16b49f22af",
+  "size": {
+    "width": 932,
+    "height": 772
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "res-danaotiangong-gamescene-spray_01.png": {
+      "ver": "1.0.3",
+      "uuid": "954d17a0-856b-4d31-afaf-1624960a32eb",
+      "rawTextureUuid": "f06922d1-db01-4307-b9a2-2d16b49f22af",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -31,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 472,
+      "height": 768,
+      "rawWidth": 552,
+      "rawHeight": 768,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    },
+    "res-danaotiangong-gamescene-spray_02.png": {
+      "ver": "1.0.3",
+      "uuid": "008eb65e-f7bc-4ca9-b8d0-4ac18225e27e",
+      "rawTextureUuid": "f06922d1-db01-4307-b9a2-2d16b49f22af",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -43,
+      "offsetY": 0,
+      "trimX": 476,
+      "trimY": 2,
+      "width": 454,
+      "height": 768,
+      "rawWidth": 552,
+      "rawHeight": 768,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

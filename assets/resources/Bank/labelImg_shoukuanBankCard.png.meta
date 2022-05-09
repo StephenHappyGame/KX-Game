@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "83eb664f-a530-45cc-8653-d95a7211ffe4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "labelImg_shoukuanBankCard": {
+      "ver": "1.0.3",
+      "uuid": "738927b6-b45a-408c-b87e-dfd7ff9d299c",
+      "rawTextureUuid": "83eb664f-a530-45cc-8653-d95a7211ffe4",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 161,
+      "height": 29,
+      "rawWidth": 161,
+      "rawHeight": 29,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

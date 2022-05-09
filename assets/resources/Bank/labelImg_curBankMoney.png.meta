@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "43cfb470-e0c2-4a3f-b765-db8d94971638",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "labelImg_curBankMoney": {
+      "ver": "1.0.3",
+      "uuid": "38b1e6c8-d65c-4c8a-9fc2-cbc0d7beef31",
+      "rawTextureUuid": "43cfb470-e0c2-4a3f-b765-db8d94971638",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 162,
+      "height": 29,
+      "rawWidth": 162,
+      "rawHeight": 29,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

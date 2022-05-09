@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "b4f60976-abf3-4fa1-8a92-a097b452f9bb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "banker_logo": {
+      "ver": "1.0.3",
+      "uuid": "10c7583c-bc9f-4936-88cc-ee33208cbe5b",
+      "rawTextureUuid": "b4f60976-abf3-4fa1-8a92-a097b452f9bb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 36,
+      "height": 41,
+      "rawWidth": 36,
+      "rawHeight": 41,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8480d780-e9b7-43fe-a6bd-86419d5e0216",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "flagLookCard": {
+      "ver": "1.0.3",
+      "uuid": "25f75a6b-0194-4cbc-9cb0-74e4bb8727fe",
+      "rawTextureUuid": "8480d780-e9b7-43fe-a6bd-86419d5e0216",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 109,
+      "height": 46,
+      "rawWidth": 109,
+      "rawHeight": 46,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

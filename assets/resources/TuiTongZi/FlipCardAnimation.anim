@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "FlipCardAnimation",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.16666666666666666,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "c877d695-0a7b-42cb-bfde-a5481720e4e5"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "390687c1-5114-4c33-9861-1e45eda3d90e"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "c8e33bf1-5f34-4c68-97d1-f4fa7b36418d"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "96b42f21-1a6f-40cb-b8db-c0961c0497de"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "7783da3b-aeb5-4a41-a75d-783171bb7ccc"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

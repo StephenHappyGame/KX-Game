@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "5aead02b-a17a-4ad2-b68a-5ef8365c5e76",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "btn_aliRecharge_off": {
+      "ver": "1.0.3",
+      "uuid": "e76a9131-247e-48da-a087-8e9eb880ab88",
+      "rawTextureUuid": "5aead02b-a17a-4ad2-b68a-5ef8365c5e76",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 255,
+      "height": 69,
+      "rawWidth": 255,
+      "rawHeight": 69,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
