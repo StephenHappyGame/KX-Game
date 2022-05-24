@@ -162,12 +162,13 @@
       "support_platform": [
         "Android"
       ],
-      "package_download_url": "https://download.cocos.com/CocosUdc/plugins/service-hmslocation/0.5.8_5.0.2.zip",
-      "package_version_desc": "<br />\n<strong>update：</strong> 2020/09/30<br />\n<strong>update note：</strong><br />\nAdd some new APIs support.</p>",
+      "package_download_url": "https://download.cocos.com/CocosUdc/plugins/service-hmslocation/0.5.9_6.4.0.zip",
+      "package_version_desc": "<br />\nUpgrade Location kit version.</p>",
       "service_component_name": "service-hmslocation",
       "package_versions": [
         "0.5.6_4.0.4",
-        "0.5.8_5.0.2"
+        "0.5.8_5.0.2",
+        "0.5.9_6.4.0"
       ],
       "build_platform": [
       ],
@@ -192,14 +193,15 @@
       "support_platform": [
         "Android"
       ],
-      "package_download_url": "https://download.cocos.com/CocosUdc/plugins/service-hmsanalytics/0.5.8_5.0.5.301.zip",
-      "package_version_desc": "<br />\n<strong>update：</strong> 2021/6/24<br />\n<strong>update note：</strong><br />\nFix: Conflicts with other services.</p>",
+      "package_download_url": "https://download.cocos.com/CocosUdc/plugins/service-hmsanalytics/0.5.9_6.4.1.302.zip",
+      "package_version_desc": "<br />\nUpgrade Analytics kit version.</p>",
       "service_component_name": "service-hmsanalytics",
       "package_versions": [
         "0.5.3_5.0.1",
         "0.5.5_5.0.5.301",
         "0.5.7_5.0.5.301",
-        "0.5.8_5.0.5.301"
+        "0.5.8_5.0.5.301",
+        "0.5.9_6.4.1.302"
       ],
       "build_platform": [
       ],

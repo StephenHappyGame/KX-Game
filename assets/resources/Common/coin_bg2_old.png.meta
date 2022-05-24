@@ -6,7 +6,7 @@
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
   "subMetas": {
-    "coin_bg2": {
+    "coin_bg2_old": {
       "ver": "1.0.3",
       "uuid": "88fe0dae-7dfa-4e4f-8967-817c11429400",
       "rawTextureUuid": "e1363456-4b13-4ac0-8678-012c53af3fac",
