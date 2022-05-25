@@ -163,7 +163,7 @@
     },
     "_enabled": true,
     "_spriteFrame": {
-      "__uuid__": "074ba8a4-eafa-4cc0-be16-5f503ce7f07a"
+      "__uuid__": "03e95a79-7ee8-43e4-8011-0d9320cb382f"
     },
     "_type": 1,
     "_sizeMode": 0,
@@ -232,7 +232,7 @@
         "__id__": 7
       }
     ],
-    "_active": true,
+    "_active": false,
     "_level": 0,
     "_components": [
       {
@@ -397,7 +397,7 @@
     "node": {
       "__id__": 6
     },
-    "_enabled": false,
+    "_enabled": true,
     "_spriteFrame": {
       "__uuid__": "ab050e70-bc30-4975-9bbd-bc896fa5948b"
     },
