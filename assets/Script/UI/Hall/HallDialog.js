@@ -82,7 +82,7 @@ cc.Class({
                 gameTypeArr.push(temp.kind);
             }
         }
-        gameTypeArr.push('more');
+        //gameTypeArr.push('more');
 
         for (let i = 0; i < gameTypeArr.length; i+=2) {
             let item = cc.instantiate(this.gameBtnItem);
