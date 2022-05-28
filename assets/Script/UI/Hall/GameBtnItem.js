@@ -34,7 +34,6 @@ cc.Class({
     // LIFE-CYCLE CALLBACKS:
 
     onLoad: function () {
-
     },
     
     updateUI: function (data, callback) {
@@ -45,6 +44,8 @@ cc.Class({
         if (!!data.game2) {
             Global.CCHelper.updateSpriteFrame('Hall/btn_game_' + data.game2, this.imgBtn2);
         }
+
+        this.imgBtn2.node.parent.active = !!data.game2;
     },
     
     onBtnClk: function (event, param) {
