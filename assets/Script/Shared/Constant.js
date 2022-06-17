@@ -11,14 +11,14 @@ let Constant = module.exports = {};
  * 
  * Game server address used for HTTP requests.
  */
-Constant.gameServerAddress = 'http://8.245.7.189:13009';
+Constant.gameServerAddress = 'http://8.245.7.56:13009';
 
 /**
  * @property
  * 
  * Web server address used for HTTP requests.
  */
-Constant.webServerAddress = 'http://8.245.7.189:14009';
+Constant.webServerAddress = 'http://8.245.7.56:14009';
 
 Constant.imgServerAddress = Constant.webServerAddress + '/';          // 图片缓存服务器
 
