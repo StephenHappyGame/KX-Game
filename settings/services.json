@@ -162,12 +162,13 @@
       "support_platform": [
         "Android"
       ],
-      "package_download_url": "https://download.cocos.com/CocosUdc/plugins/service-hmslocation/0.5.8_5.0.2.zip",
-      "package_version_desc": "<br />\n<strong>update：</strong> 2020/09/30<br />\n<strong>update note：</strong><br />\nAdd some new APIs support.</p>",
+      "package_download_url": "https://download.cocos.com/CocosUdc/plugins/service-hmslocation/0.5.9_6.4.0.zip",
+      "package_version_desc": "<br />\nUpgrade Location kit version.</p>",
       "service_component_name": "service-hmslocation",
       "package_versions": [
         "0.5.6_4.0.4",
-        "0.5.8_5.0.2"
+        "0.5.8_5.0.2",
+        "0.5.9_6.4.0"
       ],
       "build_platform": [
       ],
@@ -192,14 +193,15 @@
       "support_platform": [
         "Android"
       ],
-      "package_download_url": "https://download.cocos.com/CocosUdc/plugins/service-hmsanalytics/0.5.8_5.0.5.301.zip",
-      "package_version_desc": "<br />\n<strong>update：</strong> 2021/6/24<br />\n<strong>update note：</strong><br />\nFix: Conflicts with other services.</p>",
+      "package_download_url": "https://download.cocos.com/CocosUdc/plugins/service-hmsanalytics/0.5.9_6.4.1.302.zip",
+      "package_version_desc": "<br />\nUpgrade Analytics kit version.</p>",
       "service_component_name": "service-hmsanalytics",
       "package_versions": [
         "0.5.3_5.0.1",
         "0.5.5_5.0.5.301",
         "0.5.7_5.0.5.301",
-        "0.5.8_5.0.5.301"
+        "0.5.8_5.0.5.301",
+        "0.5.9_6.4.1.302"
       ],
       "build_platform": [
       ],
@@ -224,14 +226,15 @@
       "support_platform": [
         "Android"
       ],
-      "package_download_url": "https://download.cocos.com/CocosUdc/plugins/service-agcapms/0.5.4_1.5.2.300.zip",
-      "package_version_desc": "<br />\n<strong>update：</strong> 2021/04/06<br />\n<strong>update note：</strong><br />\n1.Add support for Game SDK.</p>",
+      "package_download_url": "https://download.cocos.com/CocosUdc/plugins/service-agcapms/0.5.6_1.5.2.300.zip",
+      "package_version_desc": "<br />\n1、upgrade AGC SDK version to v1.6.0.300</p>",
       "service_component_name": "service-agcapms",
       "package_versions": [
         "0.5.1_1.3.1",
         "0.5.2_1.3.1.300",
         "0.5.3_1.5.2.300",
-        "0.5.4_1.5.2.300"
+        "0.5.4_1.5.2.300",
+        "0.5.6_1.5.2.300"
       ],
       "build_platform": [
       ],
@@ -256,13 +259,14 @@
       "support_platform": [
         "Android"
       ],
-      "package_download_url": "https://download.cocos.com/CocosUdc/plugins/service-agcauth/0.5.3_1.4.1.300.zip",
-      "package_version_desc": "<br />\n<strong>update：</strong> 2021/08/10<br />\n<strong>update note：</strong><br />\nFix the problem of WeChat login failure.</p>",
+      "package_download_url": "https://download.cocos.com/CocosUdc/plugins/service-agcauth/0.5.6_1.6.0.300.zip",
+      "package_version_desc": "<br />\n1、upgrade AGC SDK version to v1.6.0.300<br />\n2、upgrade service SDK version to v1.6.0.300</p>",
       "service_component_name": "service-agcauth",
       "package_versions": [
         "0.5.1_1.3.1",
         "0.5.2_1.4.1.300",
-        "0.5.3_1.4.1.300"
+        "0.5.3_1.4.1.300",
+        "0.5.6_1.6.0.300"
       ],
       "build_platform": [
       ],
@@ -287,12 +291,13 @@
       "support_platform": [
         "Android"
       ],
-      "package_download_url": "https://download.cocos.com/CocosUdc/plugins/service-agccrash/0.5.5_1.4.1.300.zip",
-      "package_version_desc": "<br />\n<strong>update：</strong> 2020/10/19<br />\n<strong>update note：</strong><br />\nfix some bugs</p>",
+      "package_download_url": "https://download.cocos.com/CocosUdc/plugins/service-agccrash/0.5.8_1.6.0.300.zip",
+      "package_version_desc": "<br />\n1、upgrade AGC SDK version to v1.6.0.300<br />\n2、upgrade service SDK version to v1.6.0.300</p>",
       "service_component_name": "service-agccrash",
       "package_versions": [
         "0.5.3_1.3.2",
-        "0.5.5_1.4.1.300"
+        "0.5.5_1.4.1.300",
+        "0.5.8_1.6.0.300"
       ],
       "build_platform": [
       ],
@@ -317,15 +322,16 @@
       "support_platform": [
         "Android"
       ],
-      "package_download_url": "https://download.cocos.com/CocosUdc/plugins/service-agcapplinking/0.6.0_1.4.2.301.zip",
-      "package_version_desc": "<br />\n<strong>update：</strong> 2020/12/8<br />\n<strong>update note：</strong><br />\n1.Update SDK to v1.4.2.301<br />\n2.Add <strong>intent link type</strong> option to the service panel<br />\n3.Add <strong>Clickboard Setting</strong> option to the service panel</p>",
+      "package_download_url": "https://download.cocos.com/CocosUdc/plugins/service-agcapplinking/0.6.2_1.6.0.300.zip",
+      "package_version_desc": "<br />\n1、upgrade AGC SDK version to v1.6.0.300<br />\n2、upgrade service SDK version to v1.6.0.300</p>",
       "service_component_name": "service-agcapplinking",
       "package_versions": [
         "0.5.2_1.3.2",
         "0.5.4_1.3.2",
         "0.5.7_1.4.1.300",
         "0.5.9_1.4.1.300",
-        "0.6.0_1.4.2.301"
+        "0.6.0_1.4.2.301",
+        "0.6.2_1.6.0.300"
       ],
       "build_platform": [
       ],
@@ -350,14 +356,15 @@
       "support_platform": [
         "Android"
       ],
-      "package_download_url": "https://download.cocos.com/CocosUdc/plugins/service-agcappmessaging/0.5.6_1.4.2.301.zip",
-      "package_version_desc": "<br />\n<strong>update：</strong> 2020/12/04<br />\n<strong>update note：</strong><br />\n1.Update SDK version to 1.4.2.301<br />\n2.Added the interface to set the display location (setDisplayLocation) of pictures and pop-up messages</p>",
+      "package_download_url": "https://download.cocos.com/CocosUdc/plugins/service-agcappmessaging/0.6.0_1.6.0.300.zip",
+      "package_version_desc": "<br />\n1、upgrade AGC SDK version to v1.6.0.300<br />\n2、upgrade service SDK version to v1.6.0.300</p>",
       "service_component_name": "service-agcappmessaging",
       "package_versions": [
         "0.5.2_1.4.0",
         "0.5.3_1.4.0",
         "0.5.3_1.4.0",
-        "0.5.6_1.4.2.301"
+        "0.5.6_1.4.2.301",
+        "0.6.0_1.6.0.300"
       ],
       "build_platform": [
       ],
@@ -382,12 +389,13 @@
       "support_platform": [
         "Android"
       ],
-      "package_download_url": "https://download.cocos.com/CocosUdc/plugins/service-agcremoteconfig/0.5.1_1.4.1.300.zip",
-      "package_version_desc": "<br />\n<strong>update：</strong> 2020/10/19<br />\n<strong>update note：</strong><br />\nUpdate SDK 1.4.1.300 and add local configuration entry.</p>",
+      "package_download_url": "https://download.cocos.com/CocosUdc/plugins/service-agcremoteconfig/0.5.3_1.6.0.300.zip",
+      "package_version_desc": "<br />\n1、upgrade AGC SDK version to v1.6.0.300<br />\n2、upgrade service SDK version to v1.6.0.300</p>",
       "service_component_name": "service-agcremoteconfig",
       "package_versions": [
         "0.5.0_1.4.0",
-        "0.5.1_1.4.1.300"
+        "0.5.1_1.4.1.300",
+        "0.5.3_1.6.0.300"
       ],
       "build_platform": [
       ],
@@ -412,12 +420,13 @@
       "support_platform": [
         "Android"
       ],
-      "package_download_url": "https://download.cocos.com/CocosUdc/plugins/service-agcstorage/0.5.2_1.3.1.100.zip",
-      "package_version_desc": "<br />\n<strong>update：</strong> 2020/12/04<br />\n<strong>update note：</strong><br />\n1.Update the Cloud Storage SDK to version 1.3.1.100<br />\n2.Fix the crash of the updatefilemetadata interface<br />\n3.Add some agcstoragereference interfaces<br />\n4.Add a new part to obtain the Android application storage directory interface</p>",
+      "package_download_url": "https://download.cocos.com/CocosUdc/plugins/service-agcstorage/0.5.4_1.4.0.100.zip",
+      "package_version_desc": "<br />\n1、upgrade AGC SDK version to v1.6.0.300</p>",
       "service_component_name": "service-agcstorage",
       "package_versions": [
         "0.5.1_1.3.0.300",
-        "0.5.2_1.3.1.100"
+        "0.5.2_1.3.1.100",
+        "0.5.4_1.4.0.100"
       ],
       "build_platform": [
       ],
@@ -442,14 +451,15 @@
       "support_platform": [
         "Android"
       ],
-      "package_download_url": "https://download.cocos.com/CocosUdc/plugins/service-agcclouddb/0.5.5_1.2.3.301.zip",
-      "package_version_desc": "<br />\n<strong>update：</strong> 2020/12/23<br />\n<strong>update note：</strong><br />\n1.Fix the crash caused by the generator not adapting to the index of the new version of FORMAT-VERSION.<br />\n2.Fix the crash caused by Query type conversion problem.<br />\n3. Repair the database insertion failure caused by the JSON parsing library.</p>",
+      "package_download_url": "https://download.cocos.com/CocosUdc/plugins/service-agcclouddb/0.5.7_1.2.3.301.zip",
+      "package_version_desc": "<br />\n1、upgrade AGC SDK version to v1.6.0.300</p>",
       "service_component_name": "service-agcclouddb",
       "package_versions": [
         "0.5.1_1.2.1.301",
         "0.5.3_1.2.3.301",
         "0.5.4_1.2.3.301",
-        "0.5.5_1.2.3.301"
+        "0.5.5_1.2.3.301",
+        "0.5.7_1.2.3.301"
       ],
       "build_platform": [
       ],
@@ -474,11 +484,12 @@
       "support_platform": [
         "Android"
       ],
-      "package_download_url": "https://download.cocos.com/CocosUdc/plugins/service-agcfunction/0.5.0_1.4.1.300.zip",
-      "package_version_desc": "<br />\n<strong>update：</strong> 2020/11/05<br />\n<strong>update note：</strong><br />\nAdd AGC Cloud Function service</p>",
+      "package_download_url": "https://download.cocos.com/CocosUdc/plugins/service-agcfunction/0.5.2_1.6.0.300.zip",
+      "package_version_desc": "<br />\n1、upgrade AGC SDK version to v1.6.0.300<br />\n2、upgrade service SDK version to v1.6.0.300</p>",
       "service_component_name": "service-agcfunction",
       "package_versions": [
-        "0.5.0_1.4.1.300"
+        "0.5.0_1.4.1.300",
+        "0.5.2_1.6.0.300"
       ],
       "build_platform": [
       ],
