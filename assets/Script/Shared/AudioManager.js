@@ -1,3 +1,4 @@
+const Translator = require('Translator');
 var constant = require('./Constant');
 
 /**
@@ -175,6 +176,19 @@ AudioManager.playCommonSoundClickButton = function () {
         });
     }
 };
+
+AudioManager.playCommonSoundClickButtonLocalized = function() {
+    if(!AudioManager.isSoundEnabled) return;
+    if(!Translator.isInitialized()) return
+
+    const path = Translator.translate("commonButtonSoundPath");
+    cc.loader.loadRes(path, function(err, clip) {
+        if(err) cc.error(`Sound with path ${path} doesn't exist for language ${Translator.getCurrentLanguage()}`)
+        else {
+            cc.audioEngine.play(clip, false, AudioManager.soundVolume)
+        }
+    })
+}
 
 /**
  * Sets local storage **Music** item to 1, maxes out background music volume and resumes playing it.
