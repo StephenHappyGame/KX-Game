@@ -1,0 +1,125 @@
+
+loading_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1340, 1650
+  size: 526, 341
+  orig: 526, 341
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 13
+  size: 426, 231
+  orig: 426, 231
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 1239
+  size: 1336, 752
+  orig: 1336, 752
+  offset: 0, 0
+  index: -1
+fa
+  rotate: false
+  xy: 1323, 1064
+  size: 171, 166
+  orig: 171, 166
+  offset: 0, 0
+  index: -1
+guang
+  rotate: true
+  xy: 1868, 1654
+  size: 337, 160
+  orig: 337, 160
+  offset: 0, 0
+  index: -1
+jinbi
+  rotate: true
+  xy: 1644, 1224
+  size: 183, 144
+  orig: 183, 144
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 1340, 1409
+  size: 439, 239
+  orig: 439, 239
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: false
+  xy: 2, 2
+  size: 31, 9
+  orig: 31, 9
+  offset: 0, 0
+  index: -1
+pai1
+  rotate: true
+  xy: 1032, 970
+  size: 267, 289
+  orig: 267, 289
+  offset: 0, 0
+  index: -1
+pai2
+  rotate: true
+  xy: 905, 798
+  size: 153, 88
+  orig: 153, 88
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 551
+  size: 586, 686
+  orig: 586, 686
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 590, 569
+  size: 77, 90
+  orig: 77, 90
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 590, 661
+  size: 313, 290
+  orig: 313, 290
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 2, 246
+  size: 450, 303
+  orig: 450, 303
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: false
+  xy: 454, 269
+  size: 139, 280
+  orig: 139, 280
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 1340, 1232
+  size: 302, 175
+  orig: 302, 175
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 590, 953
+  size: 440, 284
+  orig: 440, 284
+  offset: 0, 0
+  index: -1
