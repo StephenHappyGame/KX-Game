@@ -160,7 +160,7 @@
     },
     "_enabled": true,
     "paused": false,
-    "defaultSkin": "en",
+    "defaultSkin": "default",
     "defaultAnimation": "animation",
     "_preCacheMode": 0,
     "_cacheMode": 0,
