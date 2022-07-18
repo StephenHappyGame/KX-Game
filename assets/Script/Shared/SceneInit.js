@@ -1,3 +1,5 @@
+const Translator = require('Translator');
+
 /**
  * @category Core
  * @name SceneInit
@@ -75,6 +77,8 @@ cc.Class({
      * @memberof SceneInit#
      */
     onLoad: function () {
+        Translator.init('en');
+
         // 初始设置
         cc.debug.setDisplayStats(true);
         //cc.game.setFrameRate(30);

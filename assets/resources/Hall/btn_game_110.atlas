@@ -1,0 +1,125 @@
+
+btn_game_110.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hall_pdk_a
+  rotate: false
+  xy: 685, 143
+  size: 222, 111
+  orig: 222, 111
+  offset: 0, 0
+  index: -1
+hall_pdk_bg
+  rotate: false
+  xy: 2, 29
+  size: 239, 225
+  orig: 239, 225
+  offset: 0, 0
+  index: -1
+hall_pdk_e1
+  rotate: true
+  xy: 428, 11
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+hall_pdk_e2
+  rotate: true
+  xy: 909, 159
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+hall_pdk_fa1
+  rotate: false
+  xy: 619, 13
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+hall_pdk_g
+  rotate: false
+  xy: 685, 15
+  size: 133, 126
+  orig: 133, 126
+  offset: 0, 0
+  index: -1
+hall_pdk_k
+  rotate: false
+  xy: 920, 85
+  size: 69, 72
+  orig: 69, 72
+  offset: 0, 0
+  index: -1
+hall_pdk_m
+  rotate: true
+  xy: 909, 183
+  size: 71, 96
+  orig: 71, 96
+  offset: 0, 0
+  index: -1
+hall_pdk_q
+  rotate: false
+  xy: 957, 17
+  size: 51, 66
+  orig: 51, 66
+  offset: 0, 0
+  index: -1
+hall_pdk_shenti
+  rotate: false
+  xy: 480, 57
+  size: 203, 197
+  orig: 203, 197
+  offset: 0, 0
+  index: -1
+hall_pdk_weiba
+  rotate: false
+  xy: 820, 49
+  size: 98, 92
+  orig: 98, 92
+  offset: 0, 0
+  index: -1
+hall_pdk_y1
+  rotate: false
+  xy: 462, 27
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+hall_pdk_y2
+  rotate: false
+  xy: 462, 16
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+hall_pdk_zi
+  rotate: false
+  xy: 480, 10
+  size: 137, 45
+  orig: 137, 45
+  offset: 0, 0
+  index: -1
+hall_pdk_zi2
+  rotate: false
+  xy: 820, 2
+  size: 135, 45
+  orig: 135, 45
+  offset: 0, 0
+  index: -1
+hall_pdk_zi3
+  rotate: false
+  xy: 243, 2
+  size: 183, 34
+  orig: 183, 34
+  offset: 0, 0
+  index: -1
+hall_pdk_zibg
+  rotate: false
+  xy: 243, 38
+  size: 235, 216
+  orig: 235, 216
+  offset: 0, 0
+  index: -1

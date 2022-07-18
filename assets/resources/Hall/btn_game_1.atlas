@@ -1,0 +1,125 @@
+
+btn_game_1.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 243, 53
+  size: 208, 29
+  orig: 208, 29
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 835, 209
+  size: 136, 42
+  orig: 136, 42
+  offset: 0, 0
+  index: -1
+hall_zjh_bg
+  rotate: false
+  xy: 2, 26
+  size: 239, 225
+  orig: 239, 225
+  offset: 0, 0
+  index: -1
+hall_zjh_pai
+  rotate: false
+  xy: 243, 84
+  size: 219, 167
+  orig: 219, 167
+  offset: 0, 0
+  index: -1
+hall_zjh_shenti
+  rotate: true
+  xy: 464, 88
+  size: 97, 122
+  orig: 97, 122
+  offset: 0, 0
+  index: -1
+hall_zjh_tou
+  rotate: false
+  xy: 588, 90
+  size: 103, 95
+  orig: 103, 95
+  offset: 0, 0
+  index: -1
+hall_zjh_weiba
+  rotate: false
+  xy: 804, 24
+  size: 98, 93
+  orig: 98, 93
+  offset: 0, 0
+  index: -1
+hall_zjh_youshou
+  rotate: false
+  xy: 243, 5
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+hall_zjh_zd
+  rotate: false
+  xy: 973, 184
+  size: 49, 67
+  orig: 49, 67
+  offset: 0, 0
+  index: -1
+hall_zjh_zi
+  rotate: false
+  xy: 697, 205
+  size: 136, 46
+  orig: 136, 46
+  offset: 0, 0
+  index: -1
+hall_zjh_zibg
+  rotate: false
+  xy: 464, 187
+  size: 231, 64
+  orig: 231, 64
+  offset: 0, 0
+  index: -1
+hall_zjh_zuoshou
+  rotate: false
+  xy: 904, 25
+  size: 90, 96
+  orig: 90, 96
+  offset: 0, 0
+  index: -1
+zd_guang0
+  rotate: true
+  xy: 697, 119
+  size: 84, 109
+  orig: 84, 109
+  offset: 0, 0
+  index: -1
+zd_guang1
+  rotate: true
+  xy: 693, 33
+  size: 84, 109
+  orig: 84, 109
+  offset: 0, 0
+  index: -1
+zd_guang2
+  rotate: true
+  xy: 835, 123
+  size: 84, 109
+  orig: 84, 109
+  offset: 0, 0
+  index: -1
+zd_guang3
+  rotate: true
+  xy: 464, 2
+  size: 84, 109
+  orig: 84, 109
+  offset: 0, 0
+  index: -1
+zd_guang4
+  rotate: true
+  xy: 575, 2
+  size: 84, 109
+  orig: 84, 109
+  offset: 0, 0
+  index: -1

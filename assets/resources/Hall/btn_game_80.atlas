@@ -1,0 +1,153 @@
+
+btn_game_80.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 2, 37
+  size: 180, 33
+  orig: 180, 33
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 708, 300
+  size: 131, 43
+  orig: 131, 43
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 2, 138
+  size: 463, 368
+  orig: 463, 368
+  offset: 0, 0
+  index: -1
+hall_ddz_a
+  rotate: true
+  xy: 109, 4
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+hall_ddz_a2
+  rotate: false
+  xy: 61, 7
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+hall_ddz_bg
+  rotate: false
+  xy: 467, 281
+  size: 239, 225
+  orig: 239, 225
+  offset: 0, 0
+  index: -1
+hall_ddz_bgg
+  rotate: false
+  xy: 2, 72
+  size: 231, 64
+  orig: 231, 64
+  offset: 0, 0
+  index: -1
+hall_ddz_e1
+  rotate: false
+  xy: 391, 75
+  size: 66, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+hall_ddz_e2
+  rotate: false
+  xy: 2, 2
+  size: 57, 33
+  orig: 57, 33
+  offset: 0, 0
+  index: -1
+hall_ddz_g
+  rotate: false
+  xy: 467, 215
+  size: 231, 64
+  orig: 231, 64
+  offset: 0, 0
+  index: -1
+hall_ddz_shenti
+  rotate: false
+  xy: 708, 345
+  size: 176, 161
+  orig: 176, 161
+  offset: 0, 0
+  index: -1
+hall_ddz_shou1
+  rotate: false
+  xy: 467, 121
+  size: 106, 92
+  orig: 106, 92
+  offset: 0, 0
+  index: -1
+hall_ddz_shou2
+  rotate: false
+  xy: 575, 127
+  size: 85, 86
+  orig: 85, 86
+  offset: 0, 0
+  index: -1
+hall_ddz_sz
+  rotate: false
+  xy: 235, 77
+  size: 79, 59
+  orig: 79, 59
+  offset: 0, 0
+  index: -1
+hall_ddz_tou
+  rotate: true
+  xy: 886, 369
+  size: 137, 123
+  orig: 137, 123
+  offset: 0, 0
+  index: -1
+hall_ddz_toufa1
+  rotate: true
+  xy: 662, 158
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1
+hall_ddz_toufa2
+  rotate: false
+  xy: 316, 71
+  size: 73, 65
+  orig: 73, 65
+  offset: 0, 0
+  index: -1
+hall_ddz_yb
+  rotate: true
+  xy: 841, 298
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+hall_ddz_yb2
+  rotate: false
+  xy: 662, 123
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+hall_ddz_yuanbao3
+  rotate: false
+  xy: 184, 31
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+hall_ddz_zi
+  rotate: false
+  xy: 886, 323
+  size: 136, 44
+  orig: 136, 44
+  offset: 0, 0
+  index: -1

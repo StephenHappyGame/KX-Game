@@ -1,0 +1,104 @@
+
+btn_game_50.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 790, 11
+  size: 132, 43
+  orig: 132, 43
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 447, 2
+  size: 165, 31
+  orig: 165, 31
+  offset: 0, 0
+  index: -1
+hall_bjl_a
+  rotate: false
+  xy: 781, 191
+  size: 77, 63
+  orig: 77, 63
+  offset: 0, 0
+  index: -1
+hall_bjl_a2
+  rotate: true
+  xy: 892, 75
+  size: 67, 63
+  orig: 67, 63
+  offset: 0, 0
+  index: -1
+hall_bjl_a3
+  rotate: true
+  xy: 924, 184
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: -1
+hall_bjl_bg
+  rotate: true
+  xy: 2, 15
+  size: 239, 225
+  orig: 239, 225
+  offset: 0, 0
+  index: -1
+hall_bjl_e2
+  rotate: false
+  xy: 930, 144
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+hall_bjl_ed1
+  rotate: true
+  xy: 860, 212
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+hall_bjl_gx
+  rotate: true
+  xy: 229, 19
+  size: 235, 216
+  orig: 235, 216
+  offset: 0, 0
+  index: -1
+hall_bjl_lian
+  rotate: false
+  xy: 447, 35
+  size: 210, 219
+  orig: 210, 219
+  offset: 0, 0
+  index: -1
+hall_bjl_shenti
+  rotate: false
+  xy: 659, 122
+  size: 120, 132
+  orig: 120, 132
+  offset: 0, 0
+  index: -1
+hall_bjl_shou
+  rotate: true
+  xy: 781, 144
+  size: 38, 147
+  orig: 38, 147
+  offset: 0, 0
+  index: -1
+hall_bjl_zi
+  rotate: false
+  xy: 659, 8
+  size: 129, 46
+  orig: 129, 46
+  offset: 0, 0
+  index: -1
+hall_bjl_zibg
+  rotate: false
+  xy: 659, 56
+  size: 231, 64
+  orig: 231, 64
+  offset: 0, 0
+  index: -1

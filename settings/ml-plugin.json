@@ -1,4 +1,8 @@
 {
-  "languages": [],
-  "current_language": ""
+  "current_language": "en",
+  "languages": [
+    "en",
+    "cn",
+    "tc"
+  ]
 }

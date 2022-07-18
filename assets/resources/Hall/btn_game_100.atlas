@@ -1,0 +1,76 @@
+
+btn_game_100.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 886, 190
+  size: 110, 37
+  orig: 110, 37
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 493, 29
+  size: 70, 60
+  orig: 70, 60
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 476, 195
+  size: 226, 32
+  orig: 226, 32
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 493, 148
+  size: 178, 45
+  orig: 178, 45
+  offset: 0, 0
+  index: -1
+hall_dzpk_bg
+  rotate: false
+  xy: 2, 2
+  size: 239, 225
+  orig: 239, 225
+  offset: 0, 0
+  index: -1
+hall_dzpk_shenti
+  rotate: true
+  xy: 389, 16
+  size: 145, 102
+  orig: 145, 102
+  offset: 0, 0
+  index: -1
+hall_dzpk_shou
+  rotate: true
+  xy: 493, 91
+  size: 55, 134
+  orig: 55, 134
+  offset: 0, 0
+  index: -1
+hall_dzpk_tou
+  rotate: false
+  xy: 243, 19
+  size: 144, 142
+  orig: 144, 142
+  offset: 0, 0
+  index: -1
+hall_dzpk_zi
+  rotate: false
+  xy: 704, 181
+  size: 180, 46
+  orig: 180, 46
+  offset: 0, 0
+  index: -1
+hall_dzpk_zibg
+  rotate: false
+  xy: 243, 163
+  size: 231, 64
+  orig: 231, 64
+  offset: 0, 0
+  index: -1

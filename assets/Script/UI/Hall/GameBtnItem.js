@@ -1,51 +1,49 @@
-// Learn cc.Class:
-//  - [Chinese] http://www.cocos.com/docs/creator/scripting/class.html
-//  - [English] http://www.cocos2d-x.org/docs/editors_and_tools/creator-chapters/scripting/class/index.html
-// Learn Attribute:
-//  - [Chinese] http://www.cocos.com/docs/creator/scripting/reference/attributes.html
-//  - [English] http://www.cocos2d-x.org/docs/editors_and_tools/creator-chapters/scripting/reference/attributes/index.html
-// Learn life-cycle callbacks:
-//  - [Chinese] http://www.cocos.com/docs/creator/scripting/life-cycle-callbacks.html
-//  - [English] http://www.cocos2d-x.org/docs/editors_and_tools/creator-chapters/scripting/life-cycle-callbacks/index.html
+const Translator = require("Translator");
 
 cc.Class({
     extends: cc.Component,
 
     properties: {
-        // foo: {
-        //     // ATTRIBUTES:
-        //     default: null,        // The default value will be used only when the component attaching
-        //                           // to a node for the first time
-        //     type: cc.SpriteFrame, // optional, default is typeof default
-        //     serializable: true,   // optional, default is true
-        // },
-        // bar: {
-        //     get () {
-        //         return this._bar;
-        //     },
-        //     set (value) {
-        //         this._bar = value;
-        //     }
-        // },
-        imgBtn1: cc.Sprite,
-        imgBtn2: cc.Sprite
+        spBtn1: sp.Skeleton,
+        spBtn2: sp.Skeleton
     },
 
-    // LIFE-CYCLE CALLBACKS:
-
     onLoad: function () {
+        this.spBtn1.node.active = false;
+        this.spBtn2.node.active = false;
+    },
+
+    /**
+     * This function will replace specified **skeleton** with SkeletonData loaded from
+     * *'Hall/btn_game_**gameId**'*. Default skin will be assigned as *en* and animation will
+     * be set to *animation*.
+     * 
+     * @param {number} gameId - Game ID
+     * @param {sp.Skeleton} skeleton - SkeletonData will be attached to this Skeleton
+     */
+    _replaceSpine(gameId, skeleton) {
+        cc.loader.loadRes('Hall/btn_game_' + gameId, sp.SkeletonData, (error, asset) => {
+            if(error) {
+                console.error(error);
+                return;
+            }
+
+            skeleton.skeletonData = asset;
+            skeleton.setSkin(Translator.getCurrentLanguage());
+            skeleton.setAnimation(0, "animation", true);
+
+            skeleton.node.active = true;
+
+            console.log(`Successfully attached ${gameId} SkeletonData to ${skeleton.node.name}`);
+        });
     },
     
     updateUI: function (data, callback) {
         this.data = data;
         this.callback = callback;
 
-        Global.CCHelper.updateSpriteFrame('Hall/btn_game_' + data.game1, this.imgBtn1);
-        if (!!data.game2) {
-            Global.CCHelper.updateSpriteFrame('Hall/btn_game_' + data.game2, this.imgBtn2);
-        }
-
-        this.imgBtn2.node.parent.active = !!data.game2;
+        if(data.game1) this._replaceSpine(data.game1, this.spBtn1);
+        if(data.game2) this._replaceSpine(data.game2, this.spBtn2);
     },
     
     onBtnClk: function (event, param) {
@@ -63,10 +61,4 @@ cc.Class({
             this.callback(game);
         }
     }
-
-    // start: function () {
-    //
-    // },
-
-    // update (dt) {},
 });

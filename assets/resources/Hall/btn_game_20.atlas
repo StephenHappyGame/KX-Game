@@ -1,0 +1,111 @@
+
+btn_game_20.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 796, 211
+  size: 133, 43
+  orig: 133, 43
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 625, 221
+  size: 169, 33
+  orig: 169, 33
+  offset: 0, 0
+  index: -1
+hall_ssz_1
+  rotate: true
+  xy: 527, 79
+  size: 109, 99
+  orig: 109, 99
+  offset: 0, 0
+  index: -1
+hall_ssz_2
+  rotate: true
+  xy: 243, 2
+  size: 56, 98
+  orig: 56, 98
+  offset: 0, 0
+  index: -1
+hall_ssz_3
+  rotate: true
+  xy: 628, 101
+  size: 70, 102
+  orig: 70, 102
+  offset: 0, 0
+  index: -1
+hall_ssz_4
+  rotate: true
+  xy: 734, 54
+  size: 47, 76
+  orig: 47, 76
+  offset: 0, 0
+  index: -1
+hall_ssz_5
+  rotate: true
+  xy: 628, 52
+  size: 47, 104
+  orig: 47, 104
+  offset: 0, 0
+  index: -1
+hall_ssz_bg
+  rotate: false
+  xy: 2, 29
+  size: 239, 225
+  orig: 239, 225
+  offset: 0, 0
+  index: -1
+hall_ssz_guang
+  rotate: false
+  xy: 392, 62
+  size: 133, 126
+  orig: 133, 126
+  offset: 0, 0
+  index: -1
+hall_ssz_jinbi
+  rotate: true
+  xy: 732, 103
+  size: 68, 63
+  orig: 68, 63
+  offset: 0, 0
+  index: -1
+hall_ssz_shou
+  rotate: true
+  xy: 931, 195
+  size: 59, 81
+  orig: 59, 81
+  offset: 0, 0
+  index: -1
+hall_ssz_shou2
+  rotate: false
+  xy: 343, 2
+  size: 30, 56
+  orig: 30, 56
+  offset: 0, 0
+  index: -1
+hall_ssz_tou
+  rotate: false
+  xy: 243, 60
+  size: 147, 194
+  orig: 147, 194
+  offset: 0, 0
+  index: -1
+hall_ssz_zi
+  rotate: false
+  xy: 628, 173
+  size: 133, 46
+  orig: 133, 46
+  offset: 0, 0
+  index: -1
+hall_ssz_zibg
+  rotate: false
+  xy: 392, 190
+  size: 231, 64
+  orig: 231, 64
+  offset: 0, 0
+  index: -1

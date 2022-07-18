@@ -1,0 +1,76 @@
+
+btn_game_30.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 431, 157
+  size: 212, 31
+  orig: 212, 31
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 801, 211
+  size: 133, 43
+  orig: 133, 43
+  offset: 0, 0
+  index: -1
+hall_ttz_bg
+  rotate: false
+  xy: 2, 29
+  size: 239, 225
+  orig: 239, 225
+  offset: 0, 0
+  index: -1
+hall_ttz_mj1
+  rotate: false
+  xy: 936, 166
+  size: 71, 88
+  orig: 71, 88
+  offset: 0, 0
+  index: -1
+hall_ttz_mj2
+  rotate: false
+  xy: 516, 69
+  size: 105, 86
+  orig: 105, 86
+  offset: 0, 0
+  index: -1
+hall_ttz_shenti
+  rotate: false
+  xy: 431, 45
+  size: 83, 110
+  orig: 83, 110
+  offset: 0, 0
+  index: -1
+hall_ttz_tou
+  rotate: false
+  xy: 243, 37
+  size: 186, 217
+  orig: 186, 217
+  offset: 0, 0
+  index: -1
+hall_ttz_youshou
+  rotate: true
+  xy: 243, 2
+  size: 33, 63
+  orig: 33, 63
+  offset: 0, 0
+  index: -1
+hall_ttz_zi
+  rotate: false
+  xy: 664, 208
+  size: 135, 46
+  orig: 135, 46
+  offset: 0, 0
+  index: -1
+hall_ttz_zibg
+  rotate: false
+  xy: 431, 190
+  size: 231, 64
+  orig: 231, 64
+  offset: 0, 0
+  index: -1

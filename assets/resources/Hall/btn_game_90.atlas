@@ -1,0 +1,76 @@
+
+btn_game_90.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hall_21_bg
+  rotate: false
+  xy: 2, 28
+  size: 239, 225
+  orig: 239, 225
+  offset: 0, 0
+  index: -1
+hall_21_fp
+  rotate: false
+  xy: 309, 3
+  size: 44, 57
+  orig: 44, 57
+  offset: 0, 0
+  index: -1
+hall_21_g
+  rotate: false
+  xy: 539, 61
+  size: 133, 126
+  orig: 133, 126
+  offset: 0, 0
+  index: -1
+hall_21_puke
+  rotate: false
+  xy: 243, 62
+  size: 145, 191
+  orig: 145, 191
+  offset: 0, 0
+  index: -1
+hall_21_puke2
+  rotate: false
+  xy: 390, 80
+  size: 147, 173
+  orig: 147, 173
+  offset: 0, 0
+  index: -1
+hall_21_th
+  rotate: true
+  xy: 243, 2
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+hall_21_zi
+  rotate: true
+  xy: 674, 89
+  size: 98, 45
+  orig: 98, 45
+  offset: 0, 0
+  index: -1
+hall_21_zi2
+  rotate: true
+  xy: 721, 90
+  size: 97, 42
+  orig: 97, 42
+  offset: 0, 0
+  index: -1
+hall_21_zi3
+  rotate: false
+  xy: 772, 222
+  size: 201, 31
+  orig: 201, 31
+  offset: 0, 0
+  index: -1
+hall_21_ziBg
+  rotate: false
+  xy: 539, 189
+  size: 231, 64
+  orig: 231, 64
+  offset: 0, 0
+  index: -1
