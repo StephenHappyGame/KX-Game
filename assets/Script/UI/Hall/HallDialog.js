@@ -340,7 +340,8 @@ cc.Class({
                 Global.DialogManager.createDialog('Notice/NoticeListDialog');
                 break;
             case 'settings':
-                Global.DialogManager.createDialog('Setting/SettingDialog');
+                cc.screen.requestFullScreen();
+                //Global.DialogManager.createDialog('Setting/SettingDialog');
                 break;
             case 'recharge': case 'addGold':
                 Global.DialogManager.createDialog('Recharge/RechargeDialog');

@@ -15,7 +15,7 @@ cc.Class({
     },
 
     onLoad: function () {
-        this.logo.active = false;
+        //this.logo.active = false;
         this.btnGroup.active = false;
         this.loginGroup.active = false;
 
@@ -107,9 +107,9 @@ cc.Class({
         this.loadingGroup.node.active = false;
 
         //logo动画
-        this.logo.active = true;
-        this.logo.scale = 0.1;
-        this.logo.runAction(cc.scaleTo(0.5, 1).easing(cc.easeBackOut()));
+        //this.logo.active = true;
+        //this.logo.scale = 0.1;
+        //this.logo.runAction(cc.scaleTo(0.5, 1).easing(cc.easeBackOut()));
 
         let autoLogin = cc.sys.isMobile;
 
