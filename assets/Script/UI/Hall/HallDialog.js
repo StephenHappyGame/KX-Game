@@ -117,7 +117,7 @@ cc.Class({
 
         this.gameGroup.active = false;
         this.topGroup.active = false;
-        this.bottomGroup.active = false;
+        //this.bottomGroup.active = false;
         this.roomGroup.active = true;
         this.backGroup.active = true;
     },
@@ -125,7 +125,7 @@ cc.Class({
     showGameGroup: function () {
         this.gameGroup.active = true;
         this.topGroup.active = true;
-        this.bottomGroup.active = true;
+        //this.bottomGroup.active = true;
         this.roomGroup.active = false;
         this.backGroup.active = false;
     },

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "b176b85e-32b9-4f7d-9a7f-a1e6e9144c22",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "btn_category_casino_on": {
+      "ver": "1.0.3",
+      "uuid": "2a592f84-1174-4694-84e0-08e2222b5294",
+      "rawTextureUuid": "b176b85e-32b9-4f7d-9a7f-a1e6e9144c22",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 202,
+      "height": 66,
+      "rawWidth": 202,
+      "rawHeight": 66,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
