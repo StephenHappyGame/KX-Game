@@ -52,10 +52,10 @@ cc.Class({
     updatePlayerInfo: function() {
         //大厅
         this.nicknameText.string = Global.Player.convertNickname(Global.Player.getPy('nickname'));
-        this.scoreText.string = Global.Player.getPy('gold');
-        this.scoreText1.string = Global.Player.getPy('gold');
+        this.scoreText.string = parseInt(Global.Player.getPy('gold'));
+        //this.scoreText1.string = Global.Player.getPy('gold');
         Global.CCHelper.updateSpriteFrame(Global.Player.getPy('avatar'), this.headIcon);
-        this.noticeRedPoint.active = Global.Player.checkUnRead() !== 0;
+        //this.noticeRedPoint.active = Global.Player.checkUnRead() !== 0;
     },
 
     checkJoinRoom: function () {
@@ -340,8 +340,8 @@ cc.Class({
                 Global.DialogManager.createDialog('Notice/NoticeListDialog');
                 break;
             case 'settings':
-                cc.screen.requestFullScreen();
-                //Global.DialogManager.createDialog('Setting/SettingDialog');
+                //cc.screen.requestFullScreen();
+                Global.DialogManager.createDialog('Setting/SettingDialog');
                 break;
             case 'recharge': case 'addGold':
                 Global.DialogManager.createDialog('Recharge/RechargeDialog');
