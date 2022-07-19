@@ -340,12 +340,17 @@ cc.Class({
                 Global.DialogManager.createDialog('Notice/NoticeListDialog');
                 break;
             case 'settings':
-                //cc.screen.requestFullScreen();
                 Global.DialogManager.createDialog('Setting/SettingDialog');
                 break;
             case 'recharge': case 'addGold':
                 Global.DialogManager.createDialog('Recharge/RechargeDialog');
                 break;
+            case 'fullscreen':
+                if(!cc.screen.fullScreen()) {
+                    cc.screen.requestFullScreen();
+                } else {
+                    cc.screen.exitFullScreen();
+                }
         }
 
         Global.CCHelper.playPreSound();
