@@ -1,3 +1,5 @@
+const Translator = require("Translator");
+
 cc.Class({
     extends: cc.Component,
 
@@ -15,7 +17,9 @@ cc.Class({
         progressMusic: cc.ProgressBar,
         sliderMusic: cc.Slider,
         progressSound: cc.ProgressBar,
-        sliderSound: cc.Slider
+        sliderSound: cc.Slider,
+
+        languageToggleGroup: cc.ToggleContainer
     },
 
     // use this for initialization
@@ -34,6 +38,15 @@ cc.Class({
         this.sliderMusic.progress = musicVolume;
         this.progressSound.progress = soundVolume;
         this.sliderSound.progress = soundVolume;
+
+        const currentLanguage = Translator.getCurrentLanguage();
+
+        try {
+            this._isSilentLanguageCheck = true;
+            this.languageToggleGroup.toggleItems.find(o => o.node.name === currentLanguage).check();
+        } catch(error) {
+            console.error(error);
+        }
     },
 
     onBtnClk: function (event, param) {
@@ -56,6 +69,26 @@ cc.Class({
 					this.callback();
 				}
                 break;
+        }
+    },
+
+    onLanguageChange(toggle, param) {
+        if(this._isSilentLanguageCheck) {
+            this._isSilentLanguageCheck = false;
+            return;
+        }
+        
+        const newLang = toggle.node.name;
+        
+        try {
+            Translator.init(newLang);
+            Translator.updateSceneRenderers();
+
+            cc.sys.localStorage.setItem('language', newLang);
+
+            console.log(`Successfully changed language to ${newLang}`)
+        } catch(error) {
+            console.error(error);
         }
     }
 

@@ -9,32 +9,28 @@ cc.Class({
     },
 
     onLoad: function () {
-        this.spBtn1.node.active = false;
-        this.spBtn2.node.active = false;
     },
 
     /**
      * This function will replace specified **skeleton** with SkeletonData loaded from
-     * *'Hall/btn_game_**gameId**'*. Default skin will be assigned as *en* and animation will
+     * *'Hall/Games/btn_game_**gameId**'*. Default skin will be assigned as *en* and animation will
      * be set to *animation*.
      * 
      * @param {number} gameId - Game ID
      * @param {sp.Skeleton} skeleton - SkeletonData will be attached to this Skeleton
      */
     _replaceSpine(gameId, skeleton) {
-        cc.loader.loadRes('Hall/btn_game_' + gameId, sp.SkeletonData, (error, asset) => {
+        cc.loader.loadRes('Hall/Games/btn_game_' + gameId, sp.SkeletonData, (error, asset) => {
             if(error) {
                 console.error(error);
                 return;
             }
 
             skeleton.skeletonData = asset;
-            skeleton.setSkin(Translator.getCurrentLanguage());
-            skeleton.setAnimation(0, "animation", true);
 
+            // The game buttons are disabled by default, so this should be the first activation and it will invoke
+            // onLoad function.
             skeleton.node.active = true;
-
-            console.log(`Successfully attached ${gameId} SkeletonData to ${skeleton.node.name}`);
         });
     },
     

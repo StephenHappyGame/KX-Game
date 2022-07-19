@@ -77,7 +77,10 @@ cc.Class({
      * @memberof SceneInit#
      */
     onLoad: function () {
-        Translator.init('en');
+        const savedLanguage = cc.sys.localStorage.getItem('language') || 'en';
+        Translator.init(savedLanguage);
+
+        console.log(`Game starting with language ${savedLanguage}`);
 
         // 初始设置
         cc.debug.setDisplayStats(true);

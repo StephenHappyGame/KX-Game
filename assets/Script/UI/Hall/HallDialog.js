@@ -82,7 +82,6 @@ cc.Class({
                 gameTypeArr.push(temp.kind);
             }
         }
-        //gameTypeArr.push('more');
 
         for (let i = 0; i < gameTypeArr.length; i+=2) {
             let item = cc.instantiate(this.gameBtnItem);
@@ -94,12 +93,6 @@ cc.Class({
     },
 
     showRoomGroup: function (kindId) {
-        //更多游戏
-        if (kindId === 'more') {
-            Global.DialogManager.addTipDialog('敬请期待！');
-            return;
-        }
-
 		// 德州单独处理
 		if(kindId === Global.Enum.gameType.DZ) {
             Global.DialogManager.addLoadingCircle(1);
@@ -346,8 +339,10 @@ cc.Class({
             case 'notice':
                 Global.DialogManager.createDialog('Notice/NoticeListDialog');
                 break;
-            case 'recharge':
-            case 'addGold':
+            case 'settings':
+                Global.DialogManager.createDialog('Setting/SettingDialog');
+                break;
+            case 'recharge': case 'addGold':
                 Global.DialogManager.createDialog('Recharge/RechargeDialog');
                 break;
         }
