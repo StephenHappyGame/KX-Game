@@ -44,7 +44,7 @@ cc.Class({
         }.bind(this));
 
         this.nicknameText.string = Global.Player.convertNickname(Global.Player.getPy('nickname'));
-        this.idText.string = '账号ID：' + Global.Player.getPy('uid');
+        this.idText.string = Global.Player.getPy('uid');
         this.goldNumText.string = Global.Player.getPy('gold');
     },
 
